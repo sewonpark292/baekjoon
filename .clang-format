@@ -1,0 +1,12 @@
+ReflowComments: false
+SortIncludes: false
+ColumnLimit: 0
+BreakBeforeBraces: Custom
+BraceWrapping:
+  AfterControlStatement: false  # if 뒤의 { 는 줄바꿈 안 함
+  BeforeElse: true              # else 는 줄바꿈 함
+
+# --- 들여쓰기(Tab Size) 4칸 추가 ---
+IndentWidth: 4            # 들여쓰기 간격 4칸
+TabWidth: 4               # 탭 문자 너비 4칸
+UseTab: Never             # 탭 대신 스페이스 사용 (권장)
